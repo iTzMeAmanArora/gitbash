@@ -1,6 +1,2 @@
 <<<<<<< HEAD
-this is the first change & making third time change 
-
-=======
-this is the first change & second change in the developer 
->>>>>>> developer
+this is the first change & making third time changes 
